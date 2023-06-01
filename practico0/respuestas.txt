@@ -1,0 +1,3 @@
+Como no pude asistir a la primer clase practica de los sabados, estaba medio perdido en cuanto a la forma esperada
+para presentar los resultados de este practico. Entonces en los cuatro ejercicios, escribi un codigo que respondiera  las preguntas por consola.
+Espero que no este tan mal, tuve problemas con la interpretacion y resolucion de las consignas.
